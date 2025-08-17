@@ -5,7 +5,7 @@
 ---
 
 ## ✅ **Overview**  
-**AI Data Analyst** is your intelligent assistant for **data-driven decisions**.  
+**Data Analyst** is your intelligent assistant for **data-driven decisions**.  
 Upload a dataset, ask questions in plain English, and instantly receive:  
 ✔ **Accurate answers**  
 ✔ **Visualizations (Charts, Graphs)**  
