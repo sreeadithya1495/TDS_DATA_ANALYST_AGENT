@@ -23,5 +23,3 @@ duckdb
 psutil
 httpx
 scikit-learn
-torch
-playwright
